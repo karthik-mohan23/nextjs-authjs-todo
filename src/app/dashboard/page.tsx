@@ -1,5 +1,4 @@
 import { auth } from "@/auth";
-import prisma from "@/db";
 import { findUser, getAllUsers } from "@/lib/actions";
 import { redirect } from "next/navigation";
 

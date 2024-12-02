@@ -25,7 +25,7 @@ function CreateTaskDialog({ userId }: { userId: string }) {
         <DialogHeader>
           <DialogTitle>Add new task</DialogTitle>
           <DialogDescription>
-            Add new task here. Click save when you're done.
+            Add new task here. Click save when you&apos;re done.
           </DialogDescription>
         </DialogHeader>
         <form
